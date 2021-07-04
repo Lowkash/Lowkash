@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lowkash
 - 👀 I’m interested in Progaming
-- 🌱 I’m currently learning Pythen
+- 🌱 I’m like to make mobile apps
 - 💞️ I’m looking to collaborate on Progaming
 - 📫 How to reach me lpramord@gmail.com
 
